@@ -1,6 +1,6 @@
-# OleCoin - Soccer NFT Marketplace (OpenSea Integration)
+# OleCoin - NFT Marketplace (OpenSea Integration)
 
-Soccer NFT Marketplace [Our website](https://olecoinswap.finance)
+Exclusive NFT Marketplace [Our website](https://olecoinswap.finance)
 
 <img src="https://olesports.io/wp-content/themes/cryptic/nova_home/img/bg_video.png" width="600" />
 
